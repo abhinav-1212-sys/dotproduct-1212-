@@ -10,7 +10,7 @@ for i in range (0,len(vec1)):
 print(output)
 
 
-
+# I just wanna say that this whole code is wrong
 
 #to show parallelism
 import numpy as np
